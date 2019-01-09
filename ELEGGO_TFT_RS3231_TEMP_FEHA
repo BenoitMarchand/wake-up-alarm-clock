@@ -2,7 +2,7 @@
 PLACA MEGA Y ESCUDO.*/
 
 /* MEDICION DE TIEMPO CON RTC_DS3231
-  en el pin 22 y alimentación 5Volt y GND
+  en el pin 20 -21 y alimentación 5 Volt y GND
   pines en el extremo de la regleta y pines SDA Y SCL
   20 Y 21
   RAMON
